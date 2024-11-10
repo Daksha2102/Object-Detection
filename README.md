@@ -8,14 +8,17 @@ Python Scripts:
 
 main.py: The main script for executing the object detection functionality.
 food_facts.py: A script that may contain functions related to detecting and analyzing food items in images.
+
 Images:
 
 cars.jpeg: An example image that may be used for testing the object detection capabilities.
 fruit.jpeg: Another example image for similar purposes.
+
 Configuration Files:
 
 misc.xml, modules.xml, vcs.xml: XML files that likely contain configuration settings for the project.
 count_cars.iml: An IntelliJ project file, indicating that the project may have been developed in an IDE.
+
 Additional Folders:
 
 __pycache__: Contains cached bytecode files for Python scripts.
